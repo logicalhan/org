@@ -13,6 +13,7 @@ teams:
     - piosz
     - x13n
     - zouyee
+    - hankang
     privacy: closed
   sig-instrumentation-bugs:
     description: ""
@@ -28,6 +29,7 @@ teams:
     - piosz
     - x13n
     - zouyee
+    - hankang
     privacy: closed
   sig-instrumentation-feature-requests:
     description: ""
@@ -42,6 +44,7 @@ teams:
     - mxinden
     - piosz
     - x13n
+    - hankang
     privacy: closed
   sig-instrumentation-misc:
     description: ""
@@ -56,6 +59,7 @@ teams:
     - mxinden
     - piosz
     - x13n
+    - hankang
     privacy: closed
   sig-instrumentation-pr-reviews:
     description: ""
@@ -71,6 +75,7 @@ teams:
     - piosz
     - x13n
     - zouyee
+    - hankang
     privacy: closed
   sig-instrumentation-proposals:
     description: ""
@@ -85,6 +90,7 @@ teams:
     - mxinden
     - piosz
     - x13n
+    - hankang
     privacy: closed
   sig-instrumentation-test-failures:
     description: ""
@@ -99,4 +105,5 @@ teams:
     - mxinden
     - piosz
     - x13n
+    - hankang
     privacy: closed
